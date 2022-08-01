@@ -1,6 +1,5 @@
 # Automated Exposure Control
 For robots’ robust localization in varying illumination environments, the study proposes a novel automated camera-exposure control framework to capture the best-exposed images.
-
 ![image](videos/video.gif)
 
   Performance comparison with various image quality metrics.
