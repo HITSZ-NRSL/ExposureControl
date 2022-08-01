@@ -2,6 +2,13 @@
 For robots’ robust localization in varying illumination environments, the study proposes a novel automated camera-exposure control framework to capture the best-exposed images.
 
 ![image](videos/video.gif)
+
+  Performance comparison with various image quality metrics.
+![image](images/Figure13.png#pic_center)
+
+  Qualitative performance evaluation with different  exposure control methods.
+![image](images/Figure16.png#pic_center)
+
 # Settings
 - System: ubuntu 16.04
 - C++ version: c++14
